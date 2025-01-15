@@ -1,0 +1,12 @@
+A Sociedade da Automação - Episódio: Introdução ao Ansible
+[INTRODUÇÃO]
+"Fala, galera! Hoje vamos embarcar numa jornada insana pelo mundo da automação! Sabe aquele momento em que você tá cheio de tarefas repetitivas e pensa: "Cara, por que ninguém inventou algo pra fazer isso sozinho?" Pois é, meu amigo, o Ansible é essa parada! Ele chega como aquele super-herói tech pra salvar a sua produtividade. E se você é iniciante no mundo do DevOps, pode ficar tranquilo, porque aqui no A Sociedade da Automação a gente descomplica o que parece impossível. Então, bora descobrir como o Ansible pode transformar a sua vida e a sua carreira? Segura aí!"
+
+[CURIOSIDADE 1]
+"Sabia que o Ansible é uma das ferramentas de automação mais fáceis de usar? Isso porque ele não precisa de nenhum agente instalado nos servidores que você quer gerenciar. Isso mesmo! Você só precisa de SSH e Python — algo que praticamente qualquer servidor Linux já tem. É como ter um controle remoto universal que funciona direto, sem precisar configurar um monte de coisa antes. É ou não é genial?"
+
+[CURIOSIDADE 2]
+"Agora, pra quem tá começando no Ansible, tem uma ferramenta sensacional chamada Ansible Galaxy. Basicamente, é uma espécie de loja de receitas de automação — e o melhor: tudo de graça! Lá você encontra papéis prontos (ou roles, como são chamados) que fazem tarefas específicas, como instalar um servidor web, configurar um banco de dados e muito mais. Então, se você tá no início, o Galaxy é tipo o seu manual de dicas e truques. É só baixar e usar, como mágica!"
+
+[FINALIZAÇÃO]
+"Então é isso, galera! Hoje você descobriu que automação não é só coisa de expert e que o Ansible pode ser a sua porta de entrada pra dominar o mundo do DevOps. Se você curtiu esse papo, compartilha com aquele amigo que tá sempre reclamando de trabalho repetitivo! Eu sou Felipe e esse foi o ShellJourney dessa semana. Até a próxima, e lembrem-se: automatizem e prosperem!"
