@@ -50,8 +50,8 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
-- [Título e Roteiro](/prompts/chatgpt.md)
-- [Capa](/prompts/midjourney.md)
+- [Título e Roteiro](/src/prompts/chatgpt.md)
+- [Capa](/src/prompts/midjourney.md)
 - [Narrador](https://elevenlabs.io/)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
